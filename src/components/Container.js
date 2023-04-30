@@ -1,12 +1,12 @@
 import React from 'react';
 import { ContainerStyle } from './styles';
-import ItemListContainer from './ItemListContainer';
+import Products from './ItemListContainer';
 
 const Container = ({ greeting }) => {
   return (
     <ContainerStyle>
       <h1>{greeting}</h1>
-      <ItemListContainer />
+      <Products />
     </ContainerStyle>
   );
 };
