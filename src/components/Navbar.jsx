@@ -1,4 +1,5 @@
 import React, { useState } from 'react'
+import { Link } from 'react-router-dom';
 import styled from 'styled-components'
 import BurguerButton from './BurguerButton'
 import CartWidget from './CartWidget';
@@ -17,11 +18,12 @@ function Navbar() {
       <NavContainer>
         <h2>Electro <span>Gaming</span></h2>
         <div className={`links ${clicked ? 'active' : ''}`}>
-          <a onClick={handleClick} href="#h">Inicio</a>
-          <a onClick={handleClick} href="#h">Shop</a>
-          <a onClick={handleClick} href="#h">Acerca de</a>
-          <a onClick={handleClick} href="#h">Contacto</a>
-          <a onClick={handleClick} href="#h">Blog</a>
+          <a onClick={handleClick} href="#h">Shop Products</a>
+          <a onClick={handleClick} href="#h">Gabinetes</a>
+          <a onClick={handleClick} href="#h">Monitores</a>
+          <a onClick={handleClick} href="#h">Notebooks</a>
+          <a onClick={handleClick} href="#h">Sillas Gaming</a>
+          <a onClick={handleClick} href="#h">Vga Gaming</a>
         </div>
         <div className='burguer'>
           <BurguerButton clicked={clicked} handleClick={handleClick} />

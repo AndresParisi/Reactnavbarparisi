@@ -1,6 +1,6 @@
 import React from 'react';
 import { ContainerStyle } from './styles';
-import Products from './ItemListContainer';
+import Products from './ItemList';
 
 const Container = ({ greeting }) => {
   return (
