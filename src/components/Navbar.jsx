@@ -30,7 +30,7 @@ function Navbar() {
         <CartWidget /> {}
         
       </NavContainer>
-      <Container greeting="Bienvenido a mi tienda en línea" />
+      
     </>
   )
 }

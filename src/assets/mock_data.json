@@ -6,7 +6,7 @@
     "price": 2.550,
     "detail": "Graphic Engine NVIDIA® GeForce RTX™ 4090",
     "stock": 1,
-    "category": "Placa de video",
+    "category": "Placa de video"
     
   },
   {
@@ -16,7 +16,7 @@
     "price": 2.200,
     "detail": "Graphic Engine NVIDIA® GeForce RTX™ 4090",
     "stock": 2,
-    "category": "Placa de video",
+    "category": "Placa de video"
   },
   {
     "id": 3,
@@ -25,7 +25,7 @@
     "price": 1.800,
     "detail": "Graphic Engine NVIDIA® GeForce RTX™ 4080",
     "stock": 4,
-    "category": "Placa de video",
+    "category": "Placa de video"
   },
   {
     "id": 4,
@@ -34,7 +34,7 @@
     "price": 1.500,
     "detail": "Graphic Engine NVIDIA® GeForce RTX™ 4080",
     "stock": 4,
-    "category": "Placa de video",
+    "category": "Placa de video"
   },
   {
     "id": 5,
@@ -43,7 +43,7 @@
     "price": 1.300,
     "detail": "Graphic Engine NVIDIA® GeForce RTX™ 4070",
     "stock": 5,
-    "category": "Placa de video",
+    "category": "Placa de video"
   },
   {
     "id": 6,
@@ -52,7 +52,7 @@
     "price": 1.100,
     "detail": "Tamaño del panel (diagonal) 28 «SS IPS",
     "stock": 2,
-    "category": "Monitor",
+    "category": "Monitor"
   },
   {
     "id": 7,
@@ -61,7 +61,7 @@
     "price": 950,
     "detail": "UltraWide de 34 pulgadas basada en IPS",
     "stock": 3,
-    "category": "Monitor",
+    "category": "Monitor"
   },
   {
     "id": 8,
@@ -70,7 +70,7 @@
     "price": 800,
     "detail": "Tamaño del panel (diagonal) 31,5",
     "stock": 4,
-    "category": "Monitor",
+    "category": "Monitor"
   },
   {
     "id": 9,
@@ -79,7 +79,7 @@
     "price": 700,
     "detail": "Tamaño del panel (diagonal) 27” IPS",
     "stock": 5,
-    "category": "Monitor",
+    "category": "Monitor"
   },
   {
     "id": 10,
@@ -88,7 +88,7 @@
     "price": 500,
     "detail": "Tamaño del panel (diagonal) 28 «SS IPS",
     "stock": 3,
-    "category": "Monitor",
+    "category": "Monitor"
   },
   {
     "id": 11,
@@ -97,7 +97,7 @@
     "price": 2300,
     "detail": "Micro: Intel 12th Gen Core™ i7-12700H (2.3GHz~4.7GHz)",
     "stock": 1,
-    "category": "Notebook",
+    "category": "Notebook"
   },
   {
     "id": 12,
@@ -106,7 +106,7 @@
     "price": 2100,
     "detail": "Micro: Intel 12th Gen Core™ i7-12700H (2.3GHz~4.7GHz)",
     "stock": 3,
-    "category": "Notebook",
+    "category": "Notebook"
   },
   {
     "id": 13,
@@ -115,7 +115,7 @@
     "price": 1900,
     "detail": "Procesador Intel® Core™ i7-1250H 2.3 GHz (24M Cache, up to 4.7 GHz, 10 cores: 6 P-cores and 4 E-cores)",
     "stock": 3,
-    "category": "Notebook",
+    "category": "Notebook"
   },
   {
     "id": 14,
@@ -124,7 +124,7 @@
     "price": 1800,
     "detail": "Procesador: 11th Gen Intel® Core™ i7-11800H (2.3GHz~4.6GHz)",
     "stock": 6,
-    "category": "Notebook",
+    "category": "Notebook"
   },
   {
     "id": 15,
@@ -133,7 +133,7 @@
     "price": 1700,
     "detail": "Procesador Intel® CoreTM i7-12700H de 12.ª generación",
     "stock": 8,
-    "category": "Notebook",
+    "category": "Notebook"
   },
   {
     "id": 16,
@@ -142,7 +142,7 @@
     "price": 400,
     "detail": "Level 20 RS ARGB is an ATX mid tower chassis",
     "stock": 20,
-    "category": "Gabinete",
+    "category": "Gabinete"
   },
   {
     "id": 17,
@@ -151,7 +151,7 @@
     "price": 300,
     "detail": "El diseño angular del CORSAIR iCUE 5000T RGB",
     "stock": 2,
-    "category": "Gabinete",
+    "category": "Gabinete"
   },
   {
     "id": 18,
@@ -160,7 +160,7 @@
     "price": 400,
     "detail": "El chasis ATX tipo torre CORSAIR iCUE 7000X RGB",
     "stock": 11,
-    "category": "Gabinete",
+    "category": "Gabinete"
   },
   {
     "id": 19,
@@ -169,7 +169,7 @@
     "price": 250,
     "detail": "El chasis ATX tipo torre CORSAIR iCUE 7000X RGB",
     "stock": 10,
-    "category": "Gabinete",
+    "category": "Gabinete"
   },
   {
     "id": 20,
@@ -178,7 +178,7 @@
     "price": 230,
     "detail": "La Thermaltake View 51 TG ARGB es una caja full tower",
     "stock": 16,
-    "category": "Gabinete",
+    "category": "Gabinete"
   },
   {
     "id": 21,
@@ -187,7 +187,7 @@
     "price": 600,
     "detail": "Silla ak full blanca y roja",
     "stock": 7,
-    "category": "Silla Gaming",
+    "category": "Silla Gaming"
   },
   {
     "id": 22,
@@ -196,7 +196,7 @@
     "price": 490,
     "detail": "Silla ak full negra",
     "stock": 10,
-    "category": "Silla Gaming",
+    "category": "Silla Gaming"
   },
   {
     "id": 23,
@@ -205,7 +205,7 @@
     "price": 470,
     "detail": "Silla ak semi blanca y negra",
     "stock": 19,
-    "category": "Silla Gaming",
+    "category": "Silla Gaming"
   },
   {
     "id": 24,
@@ -214,7 +214,7 @@
     "price": 440,
     "detail": "Silla coolermaster rosa y blanca caliber",
     "stock": 3,
-    "category": "Silla Gaming",
+    "category": "Silla Gaming"
   },
   {
     "id": 25,
@@ -223,7 +223,7 @@
     "price": 380,
     "detail": "Silla antec full negra y amarillo",
     "stock": 21,
-    "category": "Silla Gaming",
-  },
+    "category": "Silla Gaming"
+  }
   
 ]

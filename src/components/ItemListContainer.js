@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from 'react';
-import productsData from '../../assets/mock_data.json';
-import { Link } from 'react-router-dom'
+import productsData from '../assets/mock_data.json';
+import { Link } from 'react-router-dom';
 
 export const Products = ({ categories }) => {
     const [products, setProducts] = useState([]);
@@ -12,7 +12,7 @@ export const Products = ({ categories }) => {
     const filteredProducts = categories && categories.length > 0
         ? products.filter(product => categories.includes(product.category))
         : products;
-console.log (filteredProducts)
+    console.log(filteredProducts);
     return (
         <div className="container">
             <div className="row">
@@ -36,3 +36,5 @@ console.log (filteredProducts)
         </div>
     );
 };
+
+export default Products;
